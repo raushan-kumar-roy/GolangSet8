@@ -1,0 +1,48 @@
+Name: John Smith
+Mobile Number: 123-456-7890
+Alternate Mobile Number: 
+Address: 123 Main St
+City: New York
+
+Name: Jane Doe
+Mobile Number: 456-789-0123
+Alternate Mobile Number: 789-012-3456
+Address: 456 Park Ave
+City: Chicago
+
+Name: Bob Johnson
+Mobile Number: 789-012-3456
+Alternate Mobile Number: 
+Address: 789 Maple St
+City: Los Angeles
+
+Name: Charlie
+Mobile Number: 123-456-7892
+Alternate Mobile Number: 111-222-3333
+Address: 789 Park Avenue
+City: Los Angeles
+
+Name: Tony
+Mobile Number: 143-456-4324
+Alternate Mobile Number: 
+Address: Chicago
+City: California
+
+Name: Alice
+Mobile Number: 123-456-7892
+Alternate Mobile Number: 111-666-3333
+Address: 789 Park Avenue
+City: Los Angeles
+
+Name: Charlie
+Mobile Number: 123-456-7892
+Alternate Mobile Number: 111-222-3333
+Address: 789 Park Avenue
+City: Los Angeles
+
+Name: Roman
+Mobile Number: 123-556-6892
+Alternate Mobile Number: 
+Address: 789 Park Avenue
+City: Los Angeles
+
